@@ -1,0 +1,41 @@
+.cont-cont
+{
+
+}
+header
+{
+	display:flex;
+	justify-content:space-between;
+}
+body
+{
+	 background-image: linear-gradient(to left bottom, #472b83, #b12581, #f74661, #ff8e32, #ffdd00);
+	 background-repeat: no-repeat;
+}
+footer
+{
+	display:flex;
+	justify-content:space-between;
+
+}
+html
+{
+	height: 100vh;
+}
+img
+{
+	justify-content: flex-start;
+}
+.cont
+{
+	display: flex;
+	justify-content:  space-between;
+	flex-direction: row;
+	align-self: flex-start;
+
+}
+.cont div{
+	width: 100%;
+	background-color: red;
+	text-align: center;
+}
