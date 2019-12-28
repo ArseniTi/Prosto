@@ -1,0 +1,33 @@
+body
+{
+	background-image: url(fon.jfif);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+html,body
+{
+	height: 95%;
+}
+div.wrapper
+{
+	background-image: url(snow.png), url();
+	height: 100%;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+@keyframes snow
+{
+	0% {background-position: 0px 0px, 0px 0px;}
+	100% {background-position: 500px 1000px, 400px 400px;}
+}
+h1
+{
+	font-family: 'Amatic SC', cursive;
+	font-size: 45px
+	color:white;
+	text-shadow: red 1px 1px 0px, red -1px -1px 0px;
+	text-shadow: red -1px -1px 0px, red 1px 1px 0px;
+}
