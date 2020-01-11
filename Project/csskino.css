@@ -1,0 +1,53 @@
+body
+{
+	background-image: url();
+}
+header
+{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+figure img
+{
+	width: 100px;
+}
+nav img 
+{
+	width: 50px;
+	margin-right: 50px;
+}
+.hdgroup
+{
+	display: flex;
+	align-items: center;
+	
+}
+input
+{
+	height: 40px;
+	min-width: 300px;
+}
+button
+{
+	width: 150px;
+	height: 50px;
+}
+a
+{
+	font-size: 30px;
+}
+aside
+{
+	border: 3px solid black;
+	border-radius: 7px;
+	width: 250px;
+	height: 300px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+content
+{
+	display: flex;
+	justify-content: center;
+}
