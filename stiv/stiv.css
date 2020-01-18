@@ -1,0 +1,62 @@
+.stiv
+{
+	margin-left: 160px;
+	margin-top: 50px;
+	width: 320px;
+	height: 1000px;
+	background-color: #999999;
+	justify-content: center;
+}
+.had
+{
+	display: block;
+	width: 160px;
+	height: 160px;
+	background-color: #a87c6a;
+	margin:auto;
+	margin-bottom: 0px;
+}
+.hair
+{
+	display: block;
+	width: 160px;
+	height: 40px;
+	background-color: black;
+}
+.bod
+{
+	display: block;
+	width: 320px;
+	height: 420px;
+	background-color: green;
+	margin:auto;
+	margin-bottom: 0px;
+}
+.hand1
+{
+	display: block;
+	width: 80px;
+	height: 260px;
+	background-color: red;
+}
+.hand2
+{
+	display: block;
+	width: 80px;
+	height: 260px;
+	background-color: red;
+}
+.foot1
+{
+	display: block;
+	width: 160px;
+	height: 200px;
+	background-color: blue;
+}
+.foot2
+{
+	display: block;
+	width: 160px;
+	height: 200px;
+	background-color: blue;
+}
